@@ -8,7 +8,7 @@ We all know that by default Windows comes with a lot fancy animations and effect
 
 **Warning:** I'm a web developer so some of things I've mentioned below might not apply to you. Also, I use [Resharper](https://www.jetbrains.com/resharper/) a LOT to help me be faster with my development. Because of which I can turn off some features in Visual Studio as mentioned below.
 
-####1. Startup
+#### 1. Startup
 
 The biggest turn off when using anything happens when you open the application and it takes 5s to start. If you agree with me you can go to *Options->Environment->Startup* and select *Show Empty Environment* when starting up. If you do that then I'm guessing you also don't need the Microsoft news content to be updated so you can uncheck "Download content every" option.
 
