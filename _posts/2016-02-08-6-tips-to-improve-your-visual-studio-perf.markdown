@@ -14,13 +14,13 @@ The biggest turn off when using anything happens when you open the application a
 
 ![disable startup](/images/startup.png "Disable Startup Image")
 
-####2. Tracking Active Item
+#### 2. Tracking Active Item
 
 This is something once turned off brings a noticeable difference in the experience. Although this is quite a convenient feature to have especially in large projects, you won't have to know where this file all the time. In Resharper whenever you are editing a file and you want to locate the file in the solution explorer you use the *Shift+Alt+L* shortcut. I quite frequently use this along with the *Cntl+Shift+F10* to open the context menu for the file.
 
 ![disable active item](/images/active_item.png "Disable Active Item Tracking")
 
-####3. Navigation Bar
+#### 3. Navigation Bar
 
 ![nav bar](/images/nav_bar.png "Visual Studio Navigation Bar")
 
@@ -30,7 +30,7 @@ Here is how to turn it off.
 
 ![nav bar stop](/images/nav_bar_stop.png "Disable Navigation Bar")
 
-####4. Status Bar
+#### 4. Status Bar
 
 ![status bar](/images/status.png "Status Bar")
 
@@ -38,13 +38,13 @@ This bar lists down information about your line number, current build status, er
 
 ![disable status bar](/images/hide_status_bar.png "Hide Status Bar")
 
-####5. Margin Indicator
+#### 5. Margin Indicator
 
 Margin Indicators are mostly used for visual cues of your code. You can look [here](https://msdn.microsoft.com/en-us/library/aa238792.aspx) to know more about them. I mainly use this bar for inserting debug points for which I use the shortcut *F9* to add and remove. You can turn this off as shown here,
 
 ![disable indicator margin](/images/indicator_margin.png "Disable Indicator Margin")
 
-####6. Turn off all toolbars
+#### 6. Turn off all toolbars
 
 Okay, the only reason I did this is to force myself to find and use shortcuts for commands that I wanted to use. The only toolbar that I found useful is the Source Control. But considering my ultimate goal which was to use Visual Studio without a mouse, I chose to sacrifice that toolbar. Also we might be moving to Git as our internal SCM soon. Hence this might be only a temporary state.
 
